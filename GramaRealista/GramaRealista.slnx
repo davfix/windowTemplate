@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="GramaRealista.vcxproj" Id="4b83a70c-46f9-48f7-a9ff-64e35fdaac30" />
+</Solution>
